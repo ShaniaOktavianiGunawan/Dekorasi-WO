@@ -1,0 +1,26 @@
+#Gallery{
+    background-color: pink;
+}
+#carouselExampleCaptions h5  {
+    color: rgba(228, 26, 120, 0.849);
+    font-size: x-large;
+    
+}
+.carousel-item p{
+    color:rgba(175, 1, 82, 0.849);
+    font-size: x-large;
+    
+}
+section{
+    padding-top: 6rem;
+
+}
+/* #about{
+    background-color: rgba(228, 26, 120, 0.849);
+} */
+body{
+    background-color: rgba(228, 26, 120, 0.849);
+}
+footer{
+    background-color: pink;
+}
